@@ -11,3 +11,19 @@ print(lst)
 # insert
 lst.insert(-1,18)
 print(lst)
+
+# remove
+print(lst.remove(17))
+
+# pop
+print(lst.pop())
+
+# sort
+# print(lst.sort(reverse=True))
+
+# sorted
+# print(sorted(lst))
+
+# #reversed
+# x=reversed(lst)
+# print(lst)
