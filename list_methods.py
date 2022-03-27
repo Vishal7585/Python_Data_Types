@@ -27,3 +27,7 @@ print(lst.pop())
 # #reversed
 # x=reversed(lst)
 # print(lst)
+l=['rahul','mayur','vishal']
+m=[10,56,89]
+print(list(zip(l,m)))
+print(dict(zip(l,m)))
